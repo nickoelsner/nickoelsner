@@ -2,14 +2,12 @@
 
 ## 🚀 About Me
 
-I am a civil engineer turned front end developer. I love buildling any- and everything, from code, to Legos, woodworking, or something entirely new!
+I am an engineer at [Mondo Robot](https://www.mondorobot.com/) building amazing digital products for all kinds of clients.
 
-I'm currently working on mastering Javascript, React, HTML, and CSS
-
-If you're interested in hiring me for a freelance gig, please shoot me an email at <a href="mailto:noelsner@gmail.com">noelsner@gmail.com</a>
+I'm civil engineer turned front end developer and I love buildling any- and everything, from code, to Legos, woodworking, or something entirely new!
 
 ## 🛠 Skills
-React, Javascript, HTML, CSS, Github, Node.js, Express, PostgreSQL, RESTful APIs, React Router, Bootstrap, TailwindCSS, Webpack, Web Design
+React, Javascript, HTML, CSS, Github, Node.js, Express, PostgreSQL, RESTful APIs, React Router, Bootstrap, TailwindCSS, Webpack, Web Design, Three.js
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/Nick_Oelsner-000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://nickoelsner.com/)

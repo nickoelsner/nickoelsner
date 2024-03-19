@@ -4,7 +4,7 @@
 
 I am an engineer at [Mondo Robot](https://www.mondorobot.com/) building amazing digital products for all kinds of clients.
 
-I'm civil engineer turned front end developer and I love buildling any- and everything, from code, to Lego kits, woodworking, or something entirely new!
+I'm civil engineer turned software engineer and I love buildling any- and everything, from code, to Lego kits, woodworking, or something entirely new!
 
 ## 🛠 Skills
 React, Javascript, HTML, CSS, Github, Node.js, Express, PostgreSQL, RESTful APIs, React Router, Bootstrap, TailwindCSS, Webpack, Web Design, Three.js

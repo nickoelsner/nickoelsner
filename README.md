@@ -4,7 +4,7 @@
 
 I am a software engineer at GitHub on the Customer Success team.
 
-I'm civil engineer turned software engineer and I love buildling any- and everything, from code, to Lego kits, woodworking, or something entirely new!
+I'm civil engineer turned software engineer and I love buildling any- and everything, from code, to Lego sets, woodworking, or something entirely new!
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/Nick_Oelsner-000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://nickoelsner.com/)
